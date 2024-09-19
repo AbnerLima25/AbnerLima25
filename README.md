@@ -1,6 +1,6 @@
 # Olá! Eu sou o Abner 👋
 
-🎯 **Assistente de TI**, estudante de Análise e Dsenvolvimento de Sistemas, futuro Cientista de Dados, apaixonado por **tecnologia** e pela **área de dados**, sempre buscando novos desafios e aprendizados para transformar dados em decisões estratégicas!
+🎯 **Assistente de TI**, estudante de Análise e Desenvolvimento de Sistemas, futuro Cientista de Dados, apaixonado por **tecnologia** e pela **área de dados**, sempre buscando novos desafios e aprendizados para transformar dados em decisões estratégicas!
 
 ---
 
